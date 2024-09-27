@@ -1,1 +1,4 @@
 filesToIgnore/*
+.DS_Store
+.vscode
+
